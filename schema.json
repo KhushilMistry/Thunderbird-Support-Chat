@@ -1,0 +1,12 @@
+[
+  {
+    "namespace": "support",
+    "functions": [
+      {
+        "name": "init",
+        "type": "function",
+        "parameters": []
+      }
+    ]
+  }
+]
