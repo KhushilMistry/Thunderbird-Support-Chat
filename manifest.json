@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Thunderbird Support Chat",
-  "description": "This extension will directly redirect you to the Thunderbird Support Chat Room on the Matrix server.",
+  "description": "Redirect you to the Thunderbird Support Chat Room on the Matrix server",
   "version": "1.0",
   "author": "Khushil Mistry",
   "applications": {
