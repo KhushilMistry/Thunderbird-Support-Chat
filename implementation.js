@@ -14,6 +14,7 @@ var support = class extends ExtensionCommon.ExtensionAPI {
             // Before Thunderbird 74, messenger.xhtml was messenger.xul.
             chromeURLs: [
               "chrome://messenger/content/messenger.xhtml",
+              "chrome://messenger/content/messenger.xul",
             ],
             onLoadWindow(window) {
               function onCommand() {
